@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/gabrielgueedes)
 [![Blog Badge](https://img.shields.io/badge/Blog-gabrielcaiana-black)](https://gabrielcaiana.com)
 
-# Hi there 👋
+## Hi there 👋
 
 My name is Gabriel Caiana, currently working with Development Front-End and also working as a UX/UI Design, I like to work with companies that have design and UX as an important part of their business, in addition to collaborating between designers and other parts of company.
 
