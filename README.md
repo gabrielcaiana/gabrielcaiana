@@ -12,7 +12,6 @@ My name is Gabriel Caiana, currently working with Development Front-End and also
 - 🔭 I’m currently working on [Signa](https://signainfo.com.br) and [Angis](https://angis.com.br) as Dev Front-End and UX/UI Design, a company and startup from São Paulo, Brazil.
 - 💻 Working with Node.js, Vue, Javascript.
 - 🌱 I’m currently learning Java, Python and React.
-- 👯 I’m looking to collaborate on ...
 - 🤘🏻 UX/UI Design.
 - 💬 Ask me about User Experience, Visual Design, Javascript, HTML5, CSS3.
 
