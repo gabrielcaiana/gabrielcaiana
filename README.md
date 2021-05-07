@@ -6,12 +6,11 @@
 
 ## Hi there 👋
 
-My name is Gabriel Caiana, currently working with Development Front-End and also working as a UX/UI Design, I like to work with companies that have design and UX as an important part of their business, in addition to collaborating between designers and other parts of company.
+My name is Gabriel Caiana, currently working with Development Front-End
 
 
-- 🔭 I’m currently working on [I4PRO](http://www.i4pro.com.br/) as Dev Front-End, a company and startup from São Paulo, Brazil.
+- 🔭 I’m currently working on [I4PRO](http://www.i4pro.com.br/) as Dev Front-End, a company from São Paulo, Brazil.
 - 💻 Working with Node.js, Vue, Javascript.
-- 🌱 I’m currently learning Java, Python and React.
-- 🤘🏻 UX/UI Design.
-- 💬 Ask me about User Experience, Visual Design, Javascript, HTML5, CSS3.
+- 🌱 I’m currently learning React Native, Nuxt and Adonis.
+- 💬 Ask me about User Experience, Visual Design, Javascript, Vue HTML5, CSS3.
 
