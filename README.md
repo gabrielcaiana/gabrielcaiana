@@ -11,6 +11,6 @@ My name is Gabriel Caiana, currently working with Development Front-End
 
 - 🔭 I’m currently working on [I4PRO](http://www.i4pro.com.br/) as Dev Front-End, a company from São Paulo, Brazil.
 - 💻 Working with Node.js, Vue, Javascript.
-- 🌱 I’m currently learning TypeScript, React Native, Nuxt and Adonis.
+- 🌱 I’m currently learning TypeScript, React, React Native, Nuxt and Adonis.
 - 💬 Ask me about User Experience, Visual Design, Javascript, Vue.JS, Nuxt, HTML5, CSS3.
 
