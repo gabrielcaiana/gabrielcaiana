@@ -6,11 +6,10 @@
 
 ## Hi there 👋
 
-My name is Gabriel Caiana, currently working with Development Front-End
+I'm a 24 year old software developer working primarily with JavaScript | TypeScript | Vue and Nuxt. Passionate about technology, innovation and UX | User interface design. I'm currently studying technologist in systems analysis and development and specializing in software development with a focus on usability and accessibility, in addition to providing a good experience for users.
 
 
 - 🔭 I’m currently working on [I4PRO](http://www.i4pro.com.br/) as Dev Front-End, a company from São Paulo, Brazil.
 - 💻 Working with Node.js, Vue, Javascript.
-- 🌱 I’m currently learning TypeScript, React, React Native, Nuxt and Adonis.
-- 💬 Ask me about User Experience, Visual Design, Javascript, Vue.JS, Nuxt, HTML5, CSS3.
+- 🌱 I’m currently learning TypeScript, Nuxt, React Native, Nuxt and Adonis.
 
