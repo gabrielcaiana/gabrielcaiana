@@ -10,6 +10,4 @@ I'm a 24 year old software developer working primarily with JavaScript | TypeScr
 
 
 - 🔭 I’m currently working on [I4PRO](http://www.i4pro.com.br/) as Dev Front-End, a company from São Paulo, Brazil.
-- 💻 Working with Node.js, Vue, Javascript.
-- 🌱 I’m currently learning TypeScript, Nuxt, React Native, Nuxt and Adonis.
 
