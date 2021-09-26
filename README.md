@@ -11,3 +11,9 @@ I'm a 24 year old software developer working primarily with JavaScript | TypeScr
 
 - 🔭 I’m currently working on [I4PRO](http://www.i4pro.com.br/) as Dev Front-End, a company from São Paulo, Brazil.
 
+### Find me elsewhere 🌎
+
+🚀 [Site](https://gabrielcaiana.com) <br>
+🐦 [Twitter](https://twitter.com/gabrielgueedes) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/gabrielcaiana/) <br>
+
