@@ -10,6 +10,8 @@
 
 I'm a 24 year old software developer working primarily with JavaScript | TypeScript | Vue and Nuxt. Passionate about technology, innovation and UX | User interface design. I'm currently studying technologist in systems analysis and development and specializing in software development with a focus on usability and accessibility, in addition to providing a good experience for users.
 
+- 🔭  I’m currently working on [Petlove](https://petlove.com.br) as Front-end Developer, a company from São Paulo, Brazil.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
