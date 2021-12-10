@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabrielcaiana)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/gabrielgueedes)
-[![Blog Badge](https://img.shields.io/badge/Blog-gabrielcaiana-black)](https://gabrielcaiana.com)
+[![Blog Badge](https://img.shields.io/badge/Blog-gabrielcaiana-black)](https://www.gabrielcaiana.com)
 
 ## Hi there 👋
 
