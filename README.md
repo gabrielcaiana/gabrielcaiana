@@ -8,7 +8,7 @@
 
 ## Hi there 👋
 
-I'm a 25 year old software developer working primarily with JavaScript | TypeScript | Vue and Nuxt. Passionate about technology, innovation and UX | User interface design.
+I'm a software developer for 25 years, working with technologies like (Javascript, Typescirpt, Vue, Nuxt, Vuex, Pinia, Jest, GraphQL, Storybook, Vite, Vuetify, Tailwind, Node, Cypress), I love building web applications Using the ecosystem of VueJS always focused on delivering a good experience for users following UI/UX best practice
 
 - 🔭  I’m currently working on [Petlove](https://petlove.com.br) as Front-end Developer, a company from São Paulo, Brazil.
 
