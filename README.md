@@ -8,7 +8,9 @@
 
 ## Hi there 👋
 
-I'm a software developer for 25 years, working with technologies like (Javascript, Typescirpt, Vue, Nuxt, Vuex, Pinia, Jest, GraphQL, Storybook, Vite, Vuetify, Tailwind, Node, Cypress), I love building web applications Using the ecosystem of VueJS always focused on delivering a good experience for users following UI/UX best practice
+I'm a software developer, I work with technologies like (Javascript, Typescirpt, Vue, Nuxt, Vuex, Pinia, Jest, GraphQL, Storybook, Vite, Vuetify, Tailwind, Node, Cypress), I love building web applications using VueJS ecosystem always focused on deliver a good experience to users following UI/UX best practices.
+
+🔭 I'm currently working at Petlove as a Front-end Developer, a company from São Paulo, Brazil.
 
 - 🔭  I’m currently working on [Petlove](https://petlove.com.br) as Front-end Developer, a company from São Paulo, Brazil.
 
