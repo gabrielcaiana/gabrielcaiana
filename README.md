@@ -10,8 +10,6 @@
 
 I'm a software developer, I work with technologies like (Javascript, Typescirpt, Vue, Nuxt, Vuex, Pinia, Jest, GraphQL, Storybook, Vite, Vuetify, Tailwind, Node, Cypress), I love building web applications using VueJS ecosystem always focused on deliver a good experience to users following UI/UX best practices.
 
-🔭 I'm currently working at Petlove as a Front-end Developer, a company from São Paulo, Brazil.
-
 - 🔭  I’m currently working on [Petlove](https://petlove.com.br) as Front-end Developer, a company from São Paulo, Brazil.
 
 <div style="display: inline_block"><br>
