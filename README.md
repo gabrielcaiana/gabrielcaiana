@@ -13,7 +13,7 @@ In recent years I've worked with several technologies, some things I really like
 
 List of ways you can follow me:
 
-- 📝 [Blog](https://debbie.codes/blog)
+- 📝 [Blog](https://gabrielcaiana.com)
 - 🐦[Twitter](https://twitter.com/gabrielgueedes)
 - 👩‍💻[LinkedIn](https://www.linkedin.com/in/gabrielcaiana/)
 
