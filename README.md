@@ -1,28 +1,21 @@
-# Gabriel Caiana
-
-### Find me elsewhere 🌎
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabrielcaiana)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/gabrielgueedes)
-[![Blog Badge](https://img.shields.io/badge/Blog-gabrielcaiana-black)](https://www.gabrielcaiana.com)
-
 ## Hi there 👋
 
-I'm a software developer, I work with technologies like (Javascript, Typescript, Vue, Nuxt, Vuex, Pinia, Jest, GraphQL, Storybook, Vite, Vuetify, Tailwind, Node, Cypress), I love building web applications using VueJS ecosystem always focused on deliver a good experience to users following UI/UX best practices.
+Welcome to my Github. For those who don't know me, my name is Gabriel Caiana, I'm a Frontend developer passionate about technology and design.
+
+I have a degree in Systems Analysis and Development from FIAP, in addition to having several specialization courses in Frontend, Design and UX technologies.
+
+I love developing random apps to experiment with new technologies and project architectures, so feel free to check out my Github or my portfolio as I'm always venturing into a new project.
+
+In recent years I've worked with several technologies, some things I really like and are part of my daily life as a developer are (Javascript, Typescript, Vue, Nuxt, Vuex, Pinia, Jest, GraphQL, Storybook, Vite, Vuetify, Tailwind , node).
 
 🔭  I’m currently working on [Petlove](https://petlove.com.br) as Front-end Developer, a company from São Paulo, Brazil.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Gabriel-Nuxt" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg">
-  <img align="center" alt="Gabriel-Adonis" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg">
-   <img align="center" alt="Gabriel-Adonis" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-   <img align="center" alt="Gabriel-Adonis" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
-   <img align="center" alt="Gabriel-Adonis" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jamstack/jamstack-original.svg">
+
+List of ways you can follow me:
+
+- 📝 [Blog](https://debbie.codes/blog)
+- 🐦[Twitter](https://twitter.com/gabrielgueedes)
+- 👩‍💻[LinkedIn](https://www.linkedin.com/in/gabrielcaiana/)
 
 
+![Metrics](https://metrics.lecoq.io/gabrielcaiana?template=classic&languages=1&base.indepth=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo)
