@@ -1,12 +1,5 @@
-## Hi there 👋
+Welcome to my Github! I'm a frontend developer with a passion for technology and design. I enjoy creating unique applications and experimenting with new technologies and project architectures. I encourage you to explore my Github and portfolio to see my latest projects.
 
-Welcome to my Github. For those who don't know me, my name is Gabriel Caiana, I'm a Frontend developer passionate about technology and design.
+Over the past few years, I've gained expertise in several technologies. My daily toolkit includes JavaScript, TypeScript, Vue, Nuxt, Vuex, Pinia, Jest, GraphQL, Storybook, Vite, Vuetify, Tailwind, and Node.
 
-I love developing random apps to experiment with new technologies and project architectures, so feel free to check out my Github or my portfolio as I'm always venturing into a new project.
-
-In recent years I've worked with several technologies, some things I really like and are part of my daily life as a developer are (Javascript, Typescript, Vue, Nuxt, Vuex, Pinia, Jest, GraphQL, Storybook, Vite, Vuetify, Tailwind , node).
-
-List of ways you can follow me:
-
-- 📝 [Website](https://gabrielcaiana.com)
-- 👨‍💻[LinkedIn](https://www.linkedin.com/in/gabrielcaiana/)
+To stay connected with me, you can visit my website at https://gabrielcaiana.com or connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielcaiana/). Thanks for visiting my page!
