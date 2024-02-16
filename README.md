@@ -1,7 +1,5 @@
-I am a Frontend Engineer with over 5 years of experience in developing high-performance web applications. I have a degree in Analysis and Systems Development from FIAP and I am currently completing my post-graduate studies in Software Architecture.
+I am a dedicated Frontend Engineer with extensive experience in developing high-performance web applications. I hold a degree in Analysis and Systems Development from FIAP.
 
-Throughout my career, I have worked on challenging and diverse projects, delivering innovative solutions to companies across different industries. I possess in-depth knowledge of JavaScript, TypeScript, Vue, Nuxt, Vuex, Pinia, Jest, GraphQL, Storybook, Vite, Vuetify, Tailwind, and Node, utilizing these technologies to create engaging user experiences and responsive interfaces.
+Throughout my career, I have successfully tackled diverse projects, delivering innovative solutions to companies in various industries. I possess advanced skills in JavaScript, TypeScript, Vue, Nuxt, Vuex, Pinia, Jest, GraphQL, Storybook, Vite, Vuetify, Tailwind, and Node, utilizing these technologies to create engaging user experiences and responsive interfaces.
 
-In addition to my technical expertise, I also have skills in leadership and project management. I am capable of leading multidisciplinary teams in complex projects, ensuring timely delivery and quality standards.
-
-I strive to stay updated with the latest trends and best practices in the field of frontend development, enabling me to deliver efficient and high-performance solutions. My goal is to continue driving innovation and enhancing user experience through frontend development.
+Committed to staying updated with the latest trends and best practices in frontend development, I aim to deliver efficient and high-performance solutions. My primary goal is to drive innovation and enhance user experiences through frontend development. Explore my GitHub repositories for insights, tips, and best practices related to frontend development.
