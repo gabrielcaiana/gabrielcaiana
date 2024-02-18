@@ -4,5 +4,5 @@ Throughout my career, I have successfully tackled diverse projects, delivering i
 
 Committed to staying updated with the latest trends and best practices in frontend development, I aim to deliver efficient and high-performance solutions. My primary goal is to drive innovation and enhance user experiences through frontend development. Explore my GitHub repositories for insights, tips, and best practices related to frontend development.
 
-🌱 I’m currently learning .Net, Microservices, Software Architecture. </br>
+🌱 I’m currently learning .Net, React Native, Microservices, Software Architecture. </br>
  🌐 [gabrielcaiana.com](https://www.gabrielcaiana.com)
