@@ -1,8 +1,8 @@
-I am a dedicated Frontend Engineer with extensive experience in developing high-performance web applications. I hold a degree in Analysis and Systems Development from FIAP.
+As a software engineer with five years of experience, I specialize in the JavaScript stack, with a focus on the Vue.js ecosystem, particularly the Nuxt.js framework. My career has been marked by the development of highly scalable and in-demand applications, with a focus on diverse sectors such as e-commerce, transportation, and food services.
 
-Throughout my career, I have successfully tackled diverse projects, delivering innovative solutions to companies in various industries. I possess advanced skills in JavaScript, TypeScript, Vue, Nuxt, Vuex, Pinia, Jest, GraphQL, Storybook, Vite, Vuetify, Tailwind, and Node, utilizing these technologies to create engaging user experiences and responsive interfaces.
+My technical approach is grounded in a deep understanding of scalability, robust infrastructure, system design, and architecture. When developing software, my primary goal is to ensure transaction integrity and provide a risk-free user experience through the implementation of intelligent solutions.
 
-Committed to staying updated with the latest trends and best practices in frontend development, I aim to deliver efficient and high-performance solutions. My primary goal is to drive innovation and enhance user experiences through frontend development. Explore my GitHub repositories for insights, tips, and best practices related to frontend development.
+In addition to technical skills, I bring valuable experience in team leadership, playing crucial roles in refining technical tasks, conducting estimates, and supporting the development of junior talents. At this juncture, my professional trajectory is focused on enhancing technical leadership, aiming to contribute even more significantly to the success of the projects and teams I am involved with.
 
 🌱 I’m currently learning .Net, React Native, Microservices, Software Architecture. </br>
  🌐 [gabrielcaiana.com](https://www.gabrielcaiana.com)
