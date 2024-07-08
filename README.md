@@ -4,5 +4,5 @@ My technical approach is grounded in a deep understanding of scalability, robust
 
 In addition to technical skills, I bring valuable experience in team leadership, playing crucial roles in refining technical tasks, conducting estimates, and supporting the development of junior talents. At this juncture, my professional trajectory is focused on enhancing technical leadership, aiming to contribute even more significantly to the success of the projects and teams I am involved with.
 
-🌱 I’m currently learning .Net, React Native, Microservices, Software Architecture. </br>
+🌱 I’m currently learning GoLang, Microservices, Software Architecture. </br>
  🌐 [gabrielcaiana.com](https://www.gabrielcaiana.com)
