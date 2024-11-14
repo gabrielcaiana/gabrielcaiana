@@ -1,4 +1,4 @@
-Software Engineer (JavaScript, Node.js, Vue 3, Nuxt 3, TypeScript) - 6 years of experience
+Software Engineer (JavaScript, Node.js, Vue 3, Nuxt 3, TypeScript)
 
 I am a software engineer with over six years of experience specializing in creating scalable, high-performance full-stack applications. Throughout my career, I have demonstrated a strong proficiency in utilizing JavaScript, Node.js, Vue 3, Nuxt 3, Firebase, and TypeScript to develop innovative and efficient solutions.
 
