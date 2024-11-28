@@ -1,1 +1,5 @@
+I am a software engineer specializing in developing scalable, modern, and high-performance front-end web applications. My expertise spans the front-end and back-end technology ecosystems, with strong proficiency in JavaScript, Node.js, Vue 3, Nuxt 3, TypeScript, and CSS frameworks like Tailwind CSS and Sass. I also have experience with modern build tools such as Vite, Webpack, and esbuild to optimize builds and enhance performance.
 
+Throughout my career, I have contributed to the creation and maintenance of advanced applications, integrating Firebase, Supabase, and traditional database solutions like PostgreSQL and MongoDB. I am skilled in implementing reactive and interactive systems, leveraging advanced practices such as server-side rendering (SSR), static site generation (SSG), and progressive web apps (PWAs).
+
+I am passionate about new technologies and continuously update my knowledge of emerging frameworks, libraries, and best practices in web development. By combining technical expertise with a focus on user experience, I help businesses achieve their goals by delivering innovative solutions that meet their needs.
