@@ -16,5 +16,6 @@ Node.js back-end development: building REST/GraphQL APIs, authentication, middle
 
 Follow my work:
 
-GitHub: github.com/gabrielcaiana
-Website: gabrielcaiana.com
+- GitHub: [github.com/gabrielcaiana](github.com/gabrielcaiana)
+- Website: [gabrielcaiana.com](gabrielcaiana.com)
+- Twitter [https://x.com/gabriel_caiana](https://x.com/gabriel_caiana)
