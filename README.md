@@ -1,5 +1,20 @@
-I am a software engineer specializing in developing scalable, modern, and high-performance front-end web applications. My expertise spans the front-end and back-end technology ecosystems, with strong proficiency in JavaScript, Node.js, Vue 3, Nuxt 3, TypeScript, and CSS frameworks like Tailwind CSS and Sass. I also have experience with modern build tools such as Vite, Webpack, and esbuild to optimize builds and enhance performance.
+I’m a software engineer focused on modern front-end development, specialized in building scalable, high-performance, and robust web applications. I have extensive experience in the Vue.js and Nuxt.js ecosystems, acting as a technical reference in the creation of rich interfaces and evolutionary architectures.
 
-Throughout my career, I have contributed to the creation and maintenance of advanced applications, integrating Firebase, Supabase, and traditional database solutions like PostgreSQL and MongoDB. I am skilled in implementing reactive and interactive systems, leveraging advanced practices such as server-side rendering (SSR), static site generation (SSG), and progressive web apps (PWAs).
+My role goes beyond feature implementation: I actively contribute to architectural decisions, scalable componentization, reusable design systems, micro frontends, and monorepos—always applying engineering best practices and collaborating with multidisciplinary teams.
 
-I am passionate about new technologies and continuously update my knowledge of emerging frameworks, libraries, and best practices in web development. By combining technical expertise with a focus on user experience, I help businesses achieve their goals by delivering innovative solutions that meet their needs.
+In recent years, I’ve expanded my technical scope with a strong focus on modern infrastructure, back-end development with Node.js, and cloud services—especially on AWS—using tools such as Lambda, EC2, S3, DynamoDB, Cognito, API Gateway, IAM, CloudWatch, and CloudFormation.
+
+Core skills:
+
+- Vue 3 & Nuxt 3: advanced knowledge of Composition API, SSR, SSG, reactivity, and best practices;
+- Scalable front-end architecture: micro frontends, monorepos, design systems, and domain separation;
+- Modern full-stack integration: REST, GraphQL, Firebase, Supabase, PostgreSQL, MongoDB;
+Node.js back-end development: building REST/GraphQL APIs, authentication, middlewares, and SQL/NoSQL integrations;
+- Performance & quality: lazy loading, code splitting, SSR, and automated testing with Jest, Cypress, and Playwright;
+- Front-end DevOps: CI/CD, monitoring, and continuous deployment using Vercel, AWS, and Google Cloud;
+- Accessibility (a11y) and usability as pillars of user interface development.
+
+Follow my work:
+
+GitHub: github.com/gabrielcaiana
+Website: gabrielcaiana.com
