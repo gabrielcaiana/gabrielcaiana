@@ -18,4 +18,4 @@ Follow my work:
 
 - GitHub: [github.com/gabrielcaiana](https://github.com/gabrielcaiana)
 - Website: [gabrielcaiana.com](https://gabrielcaiana.com)
-- Twitter [https://x.com/gabriel_caiana](https://x.com/gabriel_caiana)
+- Twitter [x.com/gabriel_caiana](https://x.com/gabriel_caiana)
